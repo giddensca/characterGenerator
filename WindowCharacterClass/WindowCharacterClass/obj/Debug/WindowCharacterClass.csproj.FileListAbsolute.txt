@@ -1,0 +1,47 @@
+H:\CSCI 105\WindowCharacterClass\WindowCharacterClass\bin\Debug\WindowCharacterClass.exe.config
+H:\CSCI 105\WindowCharacterClass\WindowCharacterClass\bin\Debug\WindowCharacterClass.exe
+H:\CSCI 105\WindowCharacterClass\WindowCharacterClass\bin\Debug\WindowCharacterClass.pdb
+H:\CSCI 105\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csprojAssemblyReference.cache
+H:\CSCI 105\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.Properties.Resources.resources
+H:\CSCI 105\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csproj.GenerateResource.cache
+H:\CSCI 105\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csproj.CoreCompileInputs.cache
+H:\CSCI 105\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.exe
+H:\CSCI 105\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.pdb
+H:\CSCI 105\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.frmNameAttributes.resources
+H:\CSCI 105\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.frmStats.resources
+C:\Users\cgsoc\Desktop\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csprojAssemblyReference.cache
+C:\Users\cgsoc\Desktop\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.exe
+C:\Users\cgsoc\Desktop\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.pdb
+C:\Users\cagiddens\Desktop\WindowCharacterClass\WindowCharacterClass\bin\Debug\WindowCharacterClass.exe.config
+C:\Users\cagiddens\Desktop\WindowCharacterClass\WindowCharacterClass\bin\Debug\WindowCharacterClass.exe
+C:\Users\cagiddens\Desktop\WindowCharacterClass\WindowCharacterClass\bin\Debug\WindowCharacterClass.pdb
+C:\Users\cagiddens\Desktop\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csprojAssemblyReference.cache
+C:\Users\cagiddens\Desktop\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.frmNameAttributes.resources
+C:\Users\cagiddens\Desktop\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.Properties.Resources.resources
+C:\Users\cagiddens\Desktop\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csproj.GenerateResource.cache
+C:\Users\cagiddens\Desktop\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csproj.CoreCompileInputs.cache
+C:\Users\cagiddens\Desktop\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.exe
+C:\Users\cagiddens\Desktop\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.pdb
+C:\Users\cagiddens\Desktop\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.AboutForm.resources
+C:\Users\cagiddens\Desktop\WindowCharacterClass (2)\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csprojAssemblyReference.cache
+C:\Users\cagiddens\Desktop\WindowCharacterClass (2)\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.AboutForm.resources
+C:\Users\cagiddens\Desktop\WindowCharacterClass (2)\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.frmNameAttributes.resources
+C:\Users\cagiddens\Desktop\WindowCharacterClass (2)\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.Properties.Resources.resources
+C:\Users\cagiddens\Desktop\WindowCharacterClass (2)\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csproj.GenerateResource.cache
+C:\Users\cagiddens\Desktop\WindowCharacterClass (2)\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csproj.CoreCompileInputs.cache
+C:\Users\cagiddens\Desktop\WindowCharacterClass (2)\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.exe
+C:\Users\cagiddens\Desktop\WindowCharacterClass (2)\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.pdb
+C:\Users\cagiddens\Desktop\WindowCharacterClass (2)\WindowCharacterClass\WindowCharacterClass\bin\Debug\WindowCharacterClass.exe.config
+C:\Users\cagiddens\Desktop\WindowCharacterClass (2)\WindowCharacterClass\WindowCharacterClass\bin\Debug\WindowCharacterClass.exe
+C:\Users\cagiddens\Desktop\WindowCharacterClass (2)\WindowCharacterClass\WindowCharacterClass\bin\Debug\WindowCharacterClass.pdb
+C:\Users\cgsoc\Desktop\GitCharacterClass\WindowCharacterClass\WindowCharacterClass\bin\Debug\WindowCharacterClass.exe.config
+C:\Users\cgsoc\Desktop\GitCharacterClass\WindowCharacterClass\WindowCharacterClass\bin\Debug\WindowCharacterClass.exe
+C:\Users\cgsoc\Desktop\GitCharacterClass\WindowCharacterClass\WindowCharacterClass\bin\Debug\WindowCharacterClass.pdb
+C:\Users\cgsoc\Desktop\GitCharacterClass\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csprojAssemblyReference.cache
+C:\Users\cgsoc\Desktop\GitCharacterClass\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.AboutForm.resources
+C:\Users\cgsoc\Desktop\GitCharacterClass\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.frmNameAttributes.resources
+C:\Users\cgsoc\Desktop\GitCharacterClass\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.Properties.Resources.resources
+C:\Users\cgsoc\Desktop\GitCharacterClass\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csproj.GenerateResource.cache
+C:\Users\cgsoc\Desktop\GitCharacterClass\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.csproj.CoreCompileInputs.cache
+C:\Users\cgsoc\Desktop\GitCharacterClass\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.exe
+C:\Users\cgsoc\Desktop\GitCharacterClass\WindowCharacterClass\WindowCharacterClass\obj\Debug\WindowCharacterClass.pdb
